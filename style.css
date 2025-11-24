@@ -60,3 +60,15 @@ section {
 #recipeList {
   margin-top: 20px;
 }
+.recipe-card {
+  background: white;
+  max-width: 500px;
+  margin: 20px auto;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+  text-align: left;
+}
+.recipe-card h3 {
+  margin-top: 0;
+}
